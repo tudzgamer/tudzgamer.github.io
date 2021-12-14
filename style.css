@@ -22,3 +22,11 @@
 body {
     font-size: 50px;
 }
+img {
+    margin-left: 36%;
+}
+a {
+    color: aqua;
+     display: block;
+     margin-left: 43%;
+}
